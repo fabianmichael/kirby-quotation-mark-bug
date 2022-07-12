@@ -1,1 +1,10 @@
 Title: Home
+
+----
+
+Quotes:
+
+- 
+  test1: |
+    Lorem ipsum dolor 'sit' amet, consectetur adipiscing elit.
+  test2: "Lorem ipsum dolor sit amet, 'consectetur' adipiscing elit."

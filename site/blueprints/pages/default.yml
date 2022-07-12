@@ -7,9 +7,14 @@ columns:
       fields:
         type: fields
         fields:
-          text:
-            type: textarea
-            size: huge
+          quotes:
+            type: structure
+            label: Structure field
+            fields:
+              test1:
+                type: text
+              test2:
+                type: textarea
   sidebar:
     width: 1/3
     sections:
